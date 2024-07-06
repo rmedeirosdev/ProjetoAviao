@@ -8,12 +8,6 @@ import br.udf.ProvaA1_Aviao.UI.frmPrincipal;
 
 /**
  * @author Raphael Barros de Medeiros
- * @author Yan Azal Nakamura Santos
- * @author Henrico Araujo Lopes
- * @author Wesley Lucas Gonçalves de Santana
- * @author João Victor Tavares de Oliveira
- * @author João Pedro Vaz Almeida
- * @author Thale Ribeiro Soares
  */
 public class ProvaA1_Aviao {
 
